@@ -92,6 +92,12 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_1.png" width="100%"/>
 
+  ### 🐍 Contribution Graph Animation
+  <p align="center">
+    <img src="https://github.com/pragati-2024/pragati-2024/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  </p>
+
+
   <!-- ✨ Glowing Ending Line -->
   <p style="font-size:17px; font-family:'Poppins', sans-serif; color:#A855F7; text-shadow: 0 0 8px #E85D75, 0 0 15px #7A5FFF;">
     🌸 “Code beautifully, learn endlessly, and glow confidently.” 🌸
