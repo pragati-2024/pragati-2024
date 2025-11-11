@@ -99,6 +99,12 @@
 <!-- 🩵 Pastel Snake Animation -->
 <img src="https://github.com/pragati-2024/pragati-2024/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 
+## 🐍 GitHub Contribution Snake
+
+![GitHub Snake Light](https://raw.githubusercontent.com/pragati-2024/pragati-2024/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/pragati-2024/pragati-2024/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
+
 <!-- ✨ Glowing Quote -->
 <p style="font-size:17px; font-family:'Poppins', sans-serif; color:#BB67FF; text-shadow: 0 0 8px #E85D75, 0 0 15px #7A5FFF; margin-top:15px;">
 🌸 “Code beautifully, learn endlessly, and glow confidently.” 🌸
