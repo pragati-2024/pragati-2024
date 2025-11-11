@@ -68,7 +68,7 @@
   <a href="https://www.linkedin.com/in/pragati-b-238854269/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-BB67FF?logo=linkedin&style=for-the-badge&logoColor=white" />
   </a>
-  <a href="mailto:bansalpragati2006@gmail.com">
+  <a href="mailto:bpragati21@gmail.com">
     <img src="https://img.shields.io/badge/Email-E85D75?logo=gmail&style=for-the-badge&logoColor=white" />
   </a>
   <a href="https://github.com/pragati-2024">
