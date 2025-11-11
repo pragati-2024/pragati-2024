@@ -63,6 +63,14 @@
 
 ---
 
+### 🎯 What I'm Focusing On
+🌿 Improving my React & Tailwind skills  
+🚀 Building more full-stack projects  
+💡 Exploring UI/UX design principles  
+
+
+---
+
 ### 🌐 Connect With Me  
 <p align="center">
   <a href="https://www.linkedin.com/in/pragati-b-238854269/" target="_blank">
