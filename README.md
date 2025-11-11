@@ -92,12 +92,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_1.png" width="100%"/>
 
-### 🐍 Contribution Graph Animation  
 
-<div align="center">
-
-<!-- 🩵 Pastel Snake Animation -->
-<img src="https://github.com/pragati-2024/pragati-2024/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 
 ## 🐍 GitHub Contribution Snake
 
