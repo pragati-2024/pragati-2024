@@ -2,10 +2,12 @@
 <div align="center">
 
 <!-- 🌈 Modern Pastel Gradient Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=⚡%20Pragati%20Bansal%20⚡&fontAlign=50&fontAlignY=40&color=0:FFC6C6,50:F6D6FF,100:C6F6E9&fontColor=5B21B6" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=⚡%20Pragati%20Bansal%20⚡&fontAlign=50&fontAlignY=40&color=0:FFC6C6,50:F6D6FF,100:C6F6E9&fontColor=5B21B6" width="100%" alt="Header Banner" />
 
 <!-- 🖥️ Typing Intro -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=BB67FF&center=true&vCenter=true&width=600&lines=Hey+there!+👋;I'm+Pragati+Bansal;Frontend+Developer+%7C+UI%2FUX+Learner;Designing+Creative+%26+Responsive+Web+Apps;Learning+and+Building+Every+Day+💡" alt="Typing SVG" />
+<div style="max-width: 100%; overflow-x: auto;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=BB67FF&center=true&vCenter=true&width=600&lines=Hey+there!+👋;I'm+Pragati+Bansal;Frontend+Developer+%7C+UI%2FUX+Learner;Designing+Creative+%26+Responsive+Web+Apps;Learning+and+Building+Every+Day+💡" alt="Typing SVG" style="max-width: 100%; height: auto;" />
+</div>
 
 </div>
 
@@ -34,7 +36,7 @@
 
 ### 🛠️ Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,bootstrap,git,github,vscode,figma,java" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,bootstrap,git,github,vscode,figma,java" style="max-width: 100%; height: auto;" />
 </p>
 
 ---
@@ -57,17 +59,15 @@
 
 ### ✨ GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pragati-2024&show_icons=true&theme=tokyonight&hide_border=true&title_color=BB67FF&icon_color=E85D75" height="150"/>
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=pragati-2024&show_icons=true&theme=tokyonight&hide_border=true&title_color=BB67FF&icon_color=E85D75" height="150" style="max-width: 100%; height: auto;" alt="GitHub Stats"/>
 </p>
 
 ---
 
-### 🎯 What I'm Focusing On
+### 🎯 What I'm Focusing On  
 🌿 Improving my React & Tailwind skills  
 🚀 Building more full-stack projects  
 💡 Exploring UI/UX design principles  
-
 
 ---
 
@@ -90,21 +90,24 @@
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_1.png" width="100%"/>
+  <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_1.png" width="100%" alt="Section Divider"/>
 
+  ## 🐍 GitHub Contribution Snake
 
+  <div align="center" style="width: 100%; max-width: 100%; overflow-x: auto; display: flex; justify-content: center;">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pragati-2024/pragati-2024/output/github-contribution-grid-snake-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pragati-2024/pragati-2024/output/github-contribution-grid-snake.svg">
+      <img 
+        alt="GitHub Contribution Snake" 
+        src="https://raw.githubusercontent.com/pragati-2024/pragati-2024/output/github-contribution-grid-snake.svg"
+        style="max-width: 100%; height: auto; border-radius: 10px;"
+      />
+    </picture>
+  </div>
 
-## 🐍 GitHub Contribution Snake
-
-![GitHub Snake Light](https://raw.githubusercontent.com/pragati-2024/pragati-2024/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://raw.githubusercontent.com/pragati-2024/pragati-2024/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-
-
-<!-- ✨ Glowing Quote -->
-<p style="font-size:17px; font-family:'Poppins', sans-serif; color:#BB67FF; text-shadow: 0 0 8px #E85D75, 0 0 15px #7A5FFF; margin-top:15px;">
-🌸 “Code beautifully, learn endlessly, and glow confidently.” 🌸
-</p>
-
+  <!-- ✨ Glowing Quote -->
+  <p style="font-size:17px; font-family:'Poppins', sans-serif; color:#BB67FF; text-shadow: 0 0 8px #E85D75, 0 0 15px #7A5FFF; margin-top:15px;">
+  🌸 “Code beautifully, learn endlessly, and glow confidently.” 🌸
+  </p>
 </div>
-
----
