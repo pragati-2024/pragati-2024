@@ -2,12 +2,13 @@
 <div align="center">
 
 <!-- 🌈 Modern Pastel Gradient Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=⚡%20Pragati%20Bansal%20⚡&fontAlign=50&fontAlignY=40&color=0:FFC6C6,50:F6D6FF,100:C6F6E9&fontColor=5B21B6" width="100%" alt="Header Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=160&text=⚡%20Pragati%20Bansal%20⚡&fontAlign=50&fontAlignY=40&color=0:FFC6C6,50:F6D6FF,100:C6F6E9&fontColor=5B21B6" width="100%" alt="Header Banner" />
 
 <!-- 🖥️ Typing Intro -->
-<div style="max-width: 100%; overflow-x: auto;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=BB67FF&center=true&vCenter=true&width=600&lines=Hey+there!+👋;I'm+Pragati+Bansal;Frontend+Developer+%7C+UI%2FUX+Learner;Designing+Creative+%26+Responsive+Web+Apps;Learning+and+Building+Every+Day+💡" alt="Typing SVG" style="max-width: 100%; height: auto;" />
-</div>
+<picture>
+  <source media="(max-width:600px)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=BB67FF&center=true&vCenter=true&width=300&lines=Hey+there!+👋;I'm+Pragati+Bansal;Frontend+Developer;UI%2FUX+Learner;Building+Creative+Web+Apps;Learning+Every+Day+💡">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=BB67FF&center=true&vCenter=true&width=600&lines=Hey+there!+👋;I'm+Pragati+Bansal;Frontend+Developer+%7C+UI%2FUX+Learner;Designing+Creative+%26+Responsive+Web+Apps;Learning+and+Building+Every+Day+💡" alt="Typing SVG" width="100%" style="max-width: 600px;" />
+</picture>
 
 </div>
 
@@ -94,17 +95,14 @@
 
   ## 🐍 GitHub Contribution Snake
 
-  <div align="center" style="width: 100%; max-width: 100%; overflow-x: auto; display: flex; justify-content: center;">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pragati-2024/pragati-2024/output/github-contribution-grid-snake-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pragati-2024/pragati-2024/output/github-contribution-grid-snake.svg">
-      <img 
-        alt="GitHub Contribution Snake" 
-        src="https://raw.githubusercontent.com/pragati-2024/pragati-2024/output/github-contribution-grid-snake.svg"
-        style="max-width: 100%; height: auto; border-radius: 10px;"
-      />
-    </picture>
-  </div>
+  <picture>
+    <source media="(max-width:600px)" srcset="https://raw.githubusercontent.com/pragati-2024/pragati-2024/output/github-contribution-grid-snake.svg">
+    <img 
+      alt="GitHub Contribution Snake" 
+      src="https://raw.githubusercontent.com/pragati-2024/pragati-2024/output/github-contribution-grid-snake.svg"
+      width="100%" style="max-width: 600px; height: auto; border-radius: 10px;"
+    />
+  </picture>
 
   <!-- ✨ Glowing Quote -->
   <p style="font-size:17px; font-family:'Poppins', sans-serif; color:#BB67FF; text-shadow: 0 0 8px #E85D75, 0 0 15px #7A5FFF; margin-top:15px;">
