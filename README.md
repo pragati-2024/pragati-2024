@@ -58,10 +58,11 @@
 
 ---
 
-### ✨ GitHub Stats  
+### ✨ GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pragati-2024&show_icons=true&theme=tokyonight&hide_border=true&title_color=BB67FF&icon_color=E85D75" height="150" style="max-width: 100%; height: auto;" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=pragati-2024&show_icons=true&theme=tokyonight&hide_border=true&title_color=BB67FF&icon_color=E85D75&v=1" height="150" style="max-width: 100%; height: auto;" alt="GitHub Stats"/>
 </p>
+
 
 ---
 
