@@ -63,11 +63,15 @@
 <p align="center">
 
 <a href="https://project-eta-six-65.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/AI%20Based%20Mock%20Interview-7A5FFF?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20Based%20Mock%20Interview-6D28D9?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<a href="https://8-vingo-m793.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Vingo-DB2777?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
 <a href="https://pragati-2024.github.io/TIC-TAC-TOE/" target="_blank">
-  <img src="https://img.shields.io/badge/Tic%20Tac%20Toe%20Game-00C9A7?style=for-the-badge&logo=github&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tic%20Tac%20Toe%20Game-059669?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </p>
