@@ -15,7 +15,7 @@
 ---
 
 ### 💖 About Me  
-✨ I’m a **B.Tech 3rd-year** student passionate about building modern, interactive, and responsive web experiences.  
+✨ I’m a **B.Tech 4th-year** student passionate about building modern, interactive, and responsive web experiences.  
 🎨 I love blending **design with logic** to craft meaningful, aesthetic, and high-performing interfaces.  
 🌱 Always exploring new tools, frameworks, and technologies to improve my development workflow.  
 
