@@ -83,14 +83,22 @@
 ---
 
 ### ✨ GitHub Stats
+
 <p align="center">
   <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=pragati-2024&show_icons=true&theme=tokyonight&hide_border=true"
-    height="160"
-    alt="GitHub Stats"
+    src="./profile/stats.svg"
+    width="70%"
+    alt="Pragati's GitHub Stats"
   />
 </p>
 
+<p align="center">
+  <img
+    src="./profile/top-langs.svg"
+    width="70%"
+    alt="Pragati's Top Languages"
+  />
+</p>
 
 
 ---
