@@ -22,7 +22,7 @@ jobs:
           card: stats
           options: username=pragati-2024&show_icons=true&hide_rank=true&theme=tokyonight
           path: profile/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GH_TOKEN }}
 
       - name: Generate Top Languages
         uses: stats-organization/github-readme-stats-action@v2
@@ -30,7 +30,7 @@ jobs:
           card: top-langs
           options: username=pragati-2024&layout=compact&langs_count=6&theme=tokyonight
           path: profile/top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GH_TOKEN }}
 
       - name: Commit Stats
         run: |
